@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/DevExpress.UploadSim/Default.aspx) (VB: [Default.aspx.vb](./VB/DevExpress.UploadSim/Default.aspx.vb))
+* [Default.aspx](./CS/DevExpress.UploadSim/Default.aspx) (VB: [Default.aspx](./VB/DevExpress.UploadSim/Default.aspx))
 * [Default.aspx.cs](./CS/DevExpress.UploadSim/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DevExpress.UploadSim/Default.aspx.vb))
 <!-- default file list end -->
 # How to create a custom File Open dialog using ASPxFileManager
