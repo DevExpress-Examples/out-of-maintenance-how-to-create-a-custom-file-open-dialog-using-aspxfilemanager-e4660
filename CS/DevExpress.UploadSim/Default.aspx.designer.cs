@@ -28,7 +28,7 @@ namespace DevExpress.UploadSim {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxTextBox txbFilename;
+        protected global::DevExpress.Web.ASPxTextBox txbFilename;
         
         /// <summary>
         /// btnBrowse control.
@@ -37,7 +37,7 @@ namespace DevExpress.UploadSim {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnBrowse;
+        protected global::DevExpress.Web.ASPxButton btnBrowse;
         
         /// <summary>
         /// popup control.
@@ -46,7 +46,7 @@ namespace DevExpress.UploadSim {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxPopupControl.ASPxPopupControl popup;
+        protected global::DevExpress.Web.ASPxPopupControl popup;
         
         /// <summary>
         /// filemanager control.
@@ -55,7 +55,7 @@ namespace DevExpress.UploadSim {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxFileManager.ASPxFileManager filemanager;
+        protected global::DevExpress.Web.ASPxFileManager filemanager;
         
         /// <summary>
         /// btnDownload control.
@@ -64,6 +64,6 @@ namespace DevExpress.UploadSim {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btnDownload;
+        protected global::DevExpress.Web.ASPxButton btnDownload;
     }
 }
